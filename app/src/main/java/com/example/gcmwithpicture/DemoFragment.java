@@ -30,8 +30,6 @@ import java.io.InputStream;
 import java.net.URL;
 
 /**
- * Date : - 23/12/15
- * <p/>
  * Purpose:-
  */
 public class DemoFragment extends Fragment {
